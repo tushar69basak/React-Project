@@ -34,3 +34,5 @@ const ButtonsContainer = ({ onButtonClick }) => {
     </div>
   );
 };
+
+export default ButtonsContainer;
